@@ -1,1 +1,1 @@
-this is fully reponsive web-page.
+this is fully responsive web-page.
